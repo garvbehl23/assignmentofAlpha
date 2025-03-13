@@ -66,7 +66,7 @@ project/
 
 ## Contact
 For questions, contact:  
-Email: your-email@example.com  
+Email: behlgarv@gmail.com
 GitHub: 
 (https://github.com/garvbehl23)
 
